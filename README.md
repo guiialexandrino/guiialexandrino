@@ -27,8 +27,7 @@ You can check my portfolio here:
 </div>
 
 
-## Statistics
-[![Guilherme Alexandrino](https://github-readme-stats.vercel.app/api?username=guiialexandrino)](https://github.com/anuraghazra/github-readme-stats)
+## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiialexandrino)](https://github.com/anuraghazra/github-readme-stats)
 
 
