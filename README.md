@@ -1,4 +1,2 @@
-<div align="center">
-  <img width="46% height="165em" src="https://github-readme-stats.vercel.app/api?username=guiialexandrino&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img width="45% height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiialexandrino&layout=compact&langs_count=7"/>
-</div>
+![GuiiAlexandrino GitHub stats](https://github-readme-stats.vercel.app/api?username=guiialexandrino&show=reviews,prs_merged,prs_merged_percentage&show_icons=true)
+
