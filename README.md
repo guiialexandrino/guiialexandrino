@@ -4,7 +4,7 @@ I have a degree in Information Systems from the Federal University of Santa Cata
 
 At the end of 2019, I joined the technology area as a frontend intern at Udesc's Information and Communication Technology Laboratory. In the laboratory I remained as an intern for 1 year and 6 months. After that period, I was responsible for the frontend within the lab, in addition to training new interns until the beginning of 2023. I had the opportunity to work with the backend and a little bit of devOps. However, I'm much more familiar with the frontend, especially with the VueJS framework, which I've had experience with for over 3 years.
 
-<b>Currently, I work as a Frontend Developer at [Blueticket](https://www.blueticket.com.br) company, using VueJS 2 and 3.</b>
+<b>Currently, I work as a Frontend Developer at [Blueticket](https://www.blueticket.com.br) company, using VueJS 2 and 3 and React Native.</b>
 
 ## Portfolio 🚀🚀🚀
 
