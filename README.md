@@ -25,8 +25,3 @@ You can check my portfolio here:
 <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white">
 </div>
 
-
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiialexandrino)](https://github.com/anuraghazra/github-readme-stats)
-
-
